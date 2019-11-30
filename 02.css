@@ -30,6 +30,7 @@ padding: 24px;
 }
 header {
 align-items: center;
+display: flex;
 }
 footer {
 align-items: flex-end;
@@ -73,3 +74,6 @@ animation: rotate 10s linear 2.5s reverse infinite;
     transform: rotate(360deg);
   }
 }
+/* .Circle{
+
+} */
